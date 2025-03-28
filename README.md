@@ -1,16 +1,31 @@
-## Hi there 👋
+## 🚀 Fala, dev! Eu sou Brian Smith, e seja bem-vindo ao meu GitHub!  
 
-<!--
-**Brian5m1th/Brian5m1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Back-End Java Developer** apaixonado por tecnologia, arquitetura de software e boas práticas de desenvolvimento.  
+Aqui você encontrará projetos que refletem minha jornada como desenvolvedor, desafios técnicos e aprendizado contínuo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Especialidades  
+🚀 **Java | Spring Boot** – Desenvolvimento de APIs escaláveis e robustas  
+🐳 **Docker & MySQL** – Infraestrutura e banco de dados otimizados  
+🐧 **Linux & Git** – Workflow eficiente para desenvolvimento e deploy  
+📈 **Investimentos & Empreendedorismo** – Conectando tecnologia e negócios  
+
+---
+
+### 🔥 O que você vai encontrar aqui?  
+✅ **Projetos open-source e APIs Spring Boot**  
+✅ **Desafios técnicos e soluções práticas**  
+✅ **Conteúdo sobre arquitetura, Docker e bancos de dados**  
+
+---
+
+### 🌎 Conecte-se comigo!  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/brian5mth?igsh=NDZwMGIxOXM0NmZ0)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5573981260738)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-perfil)  
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)  
+
+---
+
+💡 **Dica:** Se algum projeto te ajudar, deixa aquela ⭐ e compartilhe! 😃  
