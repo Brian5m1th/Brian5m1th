@@ -32,4 +32,5 @@ Aqui você encontrará projetos que refletem minha jornada como desenvolvedor, d
 ---
 
 💡 **Dica:** Se algum projeto te ajudar, deixa aquela ⭐ e compartilhe! 😃  
-![Snake animation](https://github.com/Brian5m1th/Brian5m1th/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://raw.githubusercontent.com/lucaseduardo76/lucaseduardo76/output/github-contribution-grid-snake-dark.svg)
