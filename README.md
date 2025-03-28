@@ -1,4 +1,7 @@
 ## 🚀 Fala, dev! Eu sou Brian Smith, e seja bem-vindo ao meu GitHub!  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian5m1th&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian5m1th)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Sou um **Back-End Java Developer** apaixonado por tecnologia, arquitetura de software e boas práticas de desenvolvimento.  
 Aqui você encontrará projetos que refletem minha jornada como desenvolvedor, desafios técnicos e aprendizado contínuo.  
