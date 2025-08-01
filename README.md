@@ -26,7 +26,7 @@ Aqui você encontrará projetos que refletem minha jornada como desenvolvedor, d
 ### 🌎 Conecte-se comigo!  
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/brian5mth?igsh=NDZwMGIxOXM0NmZ0)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5573981260738)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-perfil)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](([https://www.linkedin.com/in/brian-smith-devlp]))  
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)  
 
 ---
